@@ -3,15 +3,13 @@
 ### Founder & CEO — [Bombay Softwares Limited (Kenya)](https://bombaysoftwares.co.ke)
 **Backend Software Engineer | Python Specialist | Data Analytics Practitioner**
 
-I’m a backend-focused software engineer and entrepreneur with a strong specialization in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build **scalable backend application logic**, architect production-ready systems, and use **data analytics** to solve real operational and business problems.
+I’m a backend-focused software engineer with a strong specialization in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build **scalable backend application logic**, architect production-ready systems, and use **data analytics** to solve real operational and business problems.
 
 Alongside Python, I’m currently learning **Go**, focusing on performance-oriented backend services and deeper system-level design.
 
 ---
 
 ## ⚙️ Engineering Philosophy
-
-I optimize for **speed, execution, and iteration**.
 
 My approach to engineering is grounded in **first-principles thinking** — breaking problems down to what actually matters, eliminating unnecessary complexity, and building only what moves the system forward.
 
@@ -23,8 +21,6 @@ I believe in:
 - **Simple systems that evolve**, rather than perfect systems that never ship  
 - **Engineering as a feedback loop**, not a one-time design exercise  
 
-Influenced by **Elon Musk’s first-principles mindset**, I focus on reducing problems to their fundamentals and rebuilding solutions that are faster, cheaper, and more effective.
-
 ---
 
 ## 🐍 Backend Engineering (Python-Centric)
@@ -35,8 +31,6 @@ Python is my primary language and the foundation of most systems I build:
 - **REST APIs** – Authentication, authorization, permissions, and domain-driven logic  
 - **Backend Architecture** – Modular apps, service layers, and reusable components  
 - **Performance & Stability** – Query optimization, caching, background tasks
-
-My focus goes beyond CRUD — I spend most of my time on **application logic and system correctness**.
 
 ---
 
