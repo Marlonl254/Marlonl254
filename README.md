@@ -1,41 +1,57 @@
-# 👋 Hi there, I'm Marlon Macharia
+# 👋 Hi there, I'm [Marlon Macharia](https://linkedin.com/in/marlon-macharia/)
 
-### **Founder & CEO at Bombay Softwares Kenya | Python Specialist | Backend Architect | Data Strategist**
+### Founder & CEO — [Bombay Softwares Limited (Kenya)](https://bombaysoftwares.co.ke)
+**Backend Software Engineer | Python Specialist | Data Analytics Practitioner**
 
-I am a Software Engineer and Entrepreneur with a specialized focus on the **Python ecosystem**. My work sits at the intersection of building robust, scalable backend architectures and leveraging data analytics to solve real-world business challenges.
+I’m a backend-focused software engineer and entrepreneur with a strong specialization in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build **scalable backend application logic**, architect production-ready systems, and use **data analytics** to solve real operational and business problems.
 
----
-
-### 🐍 My Specialized Python Focus
-I utilize Python across the entire software lifecycle:
-
-* **Backend Engineering:** Architecting secure, scalable APIs and microservices using **Django** and **FastAPI**.
-* **Data Analytics:** Transforming raw data into actionable insights using **Pandas**, **NumPy**, and **Matplotlib/Seaborn**.
-* **Automation & Scripting:** Streamlining workflows and building custom internal tools for **Bombay Softwares**.
+Alongside Python, I’m currently learning **Go**, focusing on performance-oriented backend services and deeper system-level design.
 
 ---
 
-### 🚀 Experience & Education
-* 🇰🇪 **Founder & CEO at Bombay Softwares Kenya** – Leading digital innovation in the region.
-* 🎓 **ALX SE Backend Alum** – Mastery in C, Python, and System Design.
-* 🏫 **KCA University Graduate** – B.Sc. in Software Development.
+## ⚙️ Engineering Philosophy
+
+I optimize for **speed, execution, and iteration**.
+
+My approach to engineering is grounded in **first-principles thinking** — breaking problems down to what actually matters, eliminating unnecessary complexity, and building only what moves the system forward.
+
+I believe in:
+
+- **Shipping early and often** over over-engineering  
+- **Building fast, then iterating based on real usage**  
+- **Testing assumptions in production**, with proper monitoring and rollback strategies  
+- **Simple systems that evolve**, rather than perfect systems that never ship  
+- **Engineering as a feedback loop**, not a one-time design exercise  
+
+Influenced by **Elon Musk’s first-principles mindset**, I focus on reducing problems to their fundamentals and rebuilding solutions that are faster, cheaper, and more effective.
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🐍 Backend Engineering (Python-Centric)
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | Python (Django, FastAPI), REST APIs |
-| **Data Analytics** | Pandas, NumPy, SQL, PowerBI/Tableau, Jupyter |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **Infrastructure** | Docker, Nginx, Linux, Git |
+Python is my primary language and the foundation of most systems I build:
+
+- **Django** – Core framework for business-critical backend systems  
+- **REST APIs** – Authentication, authorization, permissions, and domain-driven logic  
+- **Backend Architecture** – Modular apps, service layers, and reusable components  
+- **Performance & Stability** – Query optimization, caching, background tasks
+
+My focus goes beyond CRUD — I spend most of my time on **application logic and system correctness**.
 
 ---
+
+## 📊 Data Analytics & Business Intelligence
+
+I combine backend engineering with data analytics to improve systems and operations:
+
+- **SQL** – Reporting, analytics, and performance tuning  
+- **Python Data Stack** – Pandas, NumPy  
+- **BI Tools** – Power BI, Tableau  
+- **Jupyter** – Exploratory analysis and prototyping  
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/marlon-macharia/]((https://www.linkedin.com/in/marlon-macharia/))
-* **Website:** [bombaysoftwares.co.ke](https://bombaysoftwares.co.ke)
-* **Email:** [info@bombaysoftwares.co.ke]
+- **LinkedIn:** https://linkedin.com/in/marlon-macharia/  
+- **Website:** https://bombaysoftwares.co.ke  
+- **Email:** info@bombaysoftwares.co.ke  
