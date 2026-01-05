@@ -45,6 +45,18 @@ I combine backend engineering with data analytics to improve systems and operati
 
 ---
 
+## 🏗️ Currently Building
+
+### ◉ [CBC AI](https://cbcai.co.ke) — Lead Software Engineer
+
+I’m leading the engineering of **CBC AI**, a platform focused on **optimizing Kenyan school operations** end-to-end.
+
+We are building systems that cover:
+- **Academic management** — curriculum, assessments, performance tracking  
+- **Financial operations** — fees, payments, reporting, and reconciliation  
+- **Operational systems** — including **low-level Biometric and RFID-based solutions**  
+- **Backend services & APIs** designed to scale across multiple institutions  
+
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/marlon-macharia/  
 - **Website:** https://bombaysoftwares.co.ke  
