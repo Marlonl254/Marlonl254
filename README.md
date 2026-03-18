@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm [Marlon Macharia](https://linkedin.com/in/marlon-macharia/)
 
-### Founder & CEO — [Bombay Softwares Limited (Kenya)](https://bombaysoftwares.co.ke)
-**Backend Software Engineer | Python Specialist | Data Analytics Practitioner**
+### Founder & CEO — Bombay Softwares Limited (Kenya)
+**Backend Software Engineer | Python Specialist | DevOps & Cloud-Native Engineering**
 
-I’m a backend-focused software engineer with a strong specialization in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build **scalable backend application logic**, architect production-ready systems, and use **data analytics** to solve real operational and business problems.
+I’m a backend-focused software engineer specializing in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build scalable backend services, architect production-ready systems, and focus on reliability, performance, and maintainability in real-world environments.
 
-Alongside Python, I’m currently learning **Go**, focusing on performance-oriented backend services and deeper system-level design.
-
+Beyond backend engineering, I actively work on DevOps and cloud-native practices, focusing on CI/CD pipelines and containerization.
+I am currently part of the Andela Kubernetes Program, deepening my expertise in container orchestration and distributed systems.
 ---
 
 ## ⚙️ Engineering Philosophy
@@ -20,7 +20,7 @@ I believe in:
 - **Testing assumptions in production**, with proper monitoring and rollback strategies  
 - **Simple systems that evolve**, rather than perfect systems that never ship  
 - **Engineering as a feedback loop**, not a one-time design exercise  
-
+- **Simplicity is the ultimate sophistication**
 ---
 
 ## 🐍 Backend Engineering (Python-Centric)
@@ -34,14 +34,15 @@ Python is my primary language and the foundation of most systems I build:
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
+## ⚙️ DevOps & Cloud-Native Engineering
 
-I combine backend engineering with data analytics to improve systems and operations:
+I focus on building systems that are not only functional, but deployable, observable, and scalable in production:
 
-- **SQL** – Reporting, analytics, and performance tuning  
-- **Python Data Stack** – Pandas, NumPy  
-- **BI Tools** – Power BI, Tableau  
-- **Jupyter** – Exploratory analysis and prototyping  
+- **CI/CD Pipelines** – Automated testing, builds, and deployments
+- **Containerization** – Docker-based development and production environments
+- **Kubernetes** – Deployment, scaling, and orchestration of services
+- **Infrastructure Thinking** – System reliability, monitoring, and fault tolerance
+- **Environment Management** – Configurations, secrets, and reproducible setups
 
 ---
 
@@ -59,5 +60,5 @@ We are building systems that cover:
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/marlon-macharia/  
-- **Website:** https://bombaysoftwares.co.ke  
-- **Email:** info@bombaysoftwares.co.ke  
+- **Website:** Comming Soon
+- **Email:** marlon@cbcai.co.ke
