@@ -59,5 +59,5 @@ We are building systems that cover:
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/marlon-macharia/  
-- **Website:** Comming Soon
+- **Website:** Coming soon
 - **Email:** marlon@cbcai.co.ke
