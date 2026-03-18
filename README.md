@@ -7,7 +7,6 @@ I’m a backend-focused software engineer specializing in the **Python ecosystem
 
 Beyond backend engineering, I actively work on DevOps and cloud-native practices, focusing on CI/CD pipelines and containerization.
 I am currently part of the Andela Kubernetes Program, deepening my expertise in container orchestration and distributed systems.
----
 
 ## ⚙️ Engineering Philosophy
 
