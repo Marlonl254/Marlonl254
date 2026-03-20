@@ -3,7 +3,7 @@
 ### Founder & CEO — Bombay Softwares Limited (Kenya)
 **Backend Software Engineer | Python Specialist | DevOps & Cloud-Native Engineering**
 
-I’m a backend-focused software engineer specializing in the **Python ecosystem**, particularly **Django-based backend systems**. I design and build scalable backend services, architect production-ready systems, and focus on reliability, performance, and maintainability in real-world environments.
+I’m a backend-focused software engineer specializing in the **Python ecosystem**. I design and build scalable backend services, architect production-ready systems, and focus on reliability, performance, and maintainability in real-world environments.
 
 Beyond backend engineering, I actively work on DevOps and cloud-native practices, focusing on CI/CD pipelines and containerization.
 I am currently part of the Andela Kubernetes African Developer Training Program, deepening my expertise in container orchestration and distributed systems.
