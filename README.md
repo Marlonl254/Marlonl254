@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm [Marlon Macharia](https://linkedin.com/in/marlon-macharia/)
 
-**Problem Solving | System Architecture | Creativity and Innovation**
+**Problem Solver | System Architect | Innovator**
 
-I’m driven by a mission to transform education in Africa and empower people to build solutions within their own environments. I believe in a future where the continent is self-sufficient and industrialized through local innovation and problem-solving. My work is guided by a desire to create meaningful impact and contribute to a movement that enables more builders, thinkers, and creators across Africa.
-
+My mission is to transform education in Africa by empowering people to build, think, and create solutions that shape their own future.
 
 ## ⚙️ Engineering Philosophy
 
@@ -16,8 +15,6 @@ I believe in:
 - **Simplicity** as the ultimate sophistication
 
 ---
-
-## 🏗️ Currently Building
 
 ### ◉ [CBC AI](https://cbcai.co.ke) — Lead Software Engineer
 
