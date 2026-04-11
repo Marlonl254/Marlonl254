@@ -2,7 +2,7 @@
 
 **Problem Solver | System Architect | Innovator**
 
-My mission is to transform education in Africa by empowering people to build, think, and create solutions that shape their own future.
+Creating solutions that make life better, simpler, and more convenient.
 
 ## ⚙️ Engineering Philosophy
 
