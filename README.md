@@ -29,8 +29,7 @@ We are building systems that cover:
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://linkedin.com/in/marlon-macharia/  
-- **Website:** Coming soon
-- **Email:** marlon@cbcai.co.ke
+- **Website:** https://marlon-macharia.vercel.app/
 
 Beyond tech, I want to become a YouTuber—traveling the world, experiencing different cultures, and exploring food from diverse communities.
 
