@@ -6,7 +6,7 @@ Creating solutions that make life better, simpler, and more convenient.
 
 ## ⚙️ Engineering Philosophy
 
-My approach to engineering is grounded in **first-principles thinking** or the **Elon Way** of doing things — breaking problems down to what actually matters, eliminating unnecessary complexity, and building only what moves the system forward.
+My approach to engineering is grounded in **first-principles thinking** — breaking problems down to what actually matters, eliminating unnecessary complexity, and building only what moves the system forward.
 
 I believe in:
 
