@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Marlon Macharia](https://linkedin.com/in/marlon-macharia/)
+# 👋 Hi there, I'm [Marlon Macharia](https://marlon-macharia.vercel.app/)
 
 **Problem Solver | System Architect | Innovator**
 
